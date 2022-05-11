@@ -8,7 +8,7 @@ Dans les démocraties, la souveraineté est détenue par le peuple, constitué e
 
 ## Qu'est-ce qu'en dit la Constitution ?
 
-La Constitution dispose que “la [souveraineté nationale](https://www.vie-publique.fr/parole-dexpert/270252-la-souverainete-nationale "Définition de la souveraineté nationale") appartient au peuple qui l’exerce par ses représentants et par la voie du référendum” (art. 3). Elle pose le principe de la République comme étant le “gouvernement du peuple, par le peuple et pour le peuple” (art. 2).
+La Constitution dispose que “la souveraineté nationale appartient au peuple qui l’exerce par ses représentants et par la voie du référendum” (art. 3). Elle pose le principe de la République comme étant le “gouvernement du peuple, par le peuple et pour le peuple” (art. 2).
 
 La Constitution rappelle par ailleurs que **la souveraineté est une et indivisible**, puisque “aucune section du peuple ni aucun individu ne peut s’en attribuer l’exercice” (art. 3)
 
@@ -18,7 +18,7 @@ https://www.cairn.info/revue-les-cahiers-portalis-2017-1-page-33.htm
 
 La souveraineté numérique c'est l'application du principe de souveraineté dans l'espace numérique.
 
-Concrètement, c'est la capacité pour l'Etat d'agir sur son espace numérique comme il a la capacité de contrôler par exemple.
+Concrètement, c'est la capacité pour l'Etat d'agir sur son espace numérique comme il a la capacité de contrôler son territoire et ses ressources essentielles par exemple.
 
 On a besoin de systèmes informatisés pour faire fonctionner le pays, que ce soit pour communiquer, pour faire tourner les systèmes d'information des entreprises, pour la recherche scientifique... et ces systèmes ce sont des ensembles de machines électroniques qui fonctionnent avec des transistors organisés dans une certaine logique sur lesquels on installe du logiciel et qu'on organise en réseau grâce à des protocoles, sur lesquels on stocke des données.
 
